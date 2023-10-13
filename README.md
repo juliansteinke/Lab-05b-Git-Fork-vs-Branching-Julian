@@ -1,3 +1,3 @@
 # Lab-05b-Git-Fork-vs-Branching-Julian
 
-Always try to read between the lines uncover hidden meaning.
+This project is to practice git forking and branching with pull request
